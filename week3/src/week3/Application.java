@@ -52,13 +52,13 @@ public class Application {
 		
 		// --- step three --- \\
 		writeQuestionHeader();
-		System.out.println("The first index of an array is 0: " + names[0]);
+		System.out.println("The lase index of an array is (arrayName.lenth-1): " + names[names.length-1]);
 		
 		
 		
 		// --- step four --- \\
 		writeQuestionHeader();
-		System.out.println("The lase index of an array is (arrayName.lenth-1): " + names[names.length-1]);
+		System.out.println("The first index of an array is 0: " + names[0]);
 		
 		
 		
